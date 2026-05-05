@@ -2,9 +2,9 @@
 
 A React-based YouTube-style video listing interface using the Videos API.
 
-**Live Demo:**
+**Live Demo:** https://youtube-videos-omega.vercel.app/
 
-**GitHub Repo:**
+**GitHub Repo:** https://github.com/tilak9606/youtube-videos
 
 ---
 
@@ -45,7 +45,7 @@ https://api.freeapi.app/api/v1/public/youtube/videos
 ### Getting Started
 
 ```bash
-git clone 
+git clone git@github.com:tilak9606/youtube-videos.git
 cd youtube-videos
 npm install
 npm run dev
